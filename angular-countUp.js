@@ -93,7 +93,7 @@
                         });
                     }
                     else {
-                        countUp.start();
+                        countUp.start(options.callback);
                     }
                 }
 
